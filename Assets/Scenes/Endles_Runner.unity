@@ -2996,9 +2996,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spike: {fileID: 7115409051281988358, guid: f499fab68eb3f27419c9d08982a19853, type: 3}
   minspeed: 5
-  maxspeed: 10
+  maxspeed: 25
   currentspeed: 0
-  speedmultiplier: 0.02
+  speedmultiplier: 3
 --- !u!4 &8249925261619568468
 Transform:
   m_ObjectHideFlags: 0
